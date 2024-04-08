@@ -16,6 +16,6 @@
 ---
 # PyPI
 using pip, you can install `NumPy`,`Pandas`,`matplotlib`,`seaborn` , `SciPy` with:
------
+```
 pip install numpy
------
+```
