@@ -2,6 +2,7 @@
 ---
 ### 1 Electric Vehicles Market Size Analysis using Python
 ---
+# Objectives:
 + Understand how data analysts and scientists gather and analyze data
 + Perform data analysis in Python
 + Combine, group, and aggregate data from multiple sources
