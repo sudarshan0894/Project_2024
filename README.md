@@ -1,7 +1,7 @@
 # Project_2024
 ---
 ## 1 Electric Vehicles Market Size Analysis using Python
----
+
 #### Objectives:
 + Understand how data analysts and scientists gather and analyze data
 + Perform data analysis in Python
@@ -13,9 +13,9 @@
 + Utilize computer science concepts and algorithms to write more efficient code for data analysis
 + Write and run simulations
 ---
-## Prerequisites
+#### Prerequisites
 ---
-# PyPI
+#### PyPI
 using pip, you can install `NumPy`,`Pandas`,`matplotlib`,`seaborn` , `SciPy` with:
 ```
 pip install numpy
