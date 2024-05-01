@@ -36,3 +36,11 @@ So, market size analysis is a crucial aspect of market research that determines 
 ## 2 Food Delivery Cost and Profitability Analysis
 - __[Dataset](https://statso.io/optimizing-cost-and-profitability-case-study/)__ - You can downloard the dataset from Heare.
 #### Objectives:
++ Understand the process of gathering and analyzing data to conduct detailed cost analysis and profitability evaluation in the context of a food delivery service.
++ Perform data analysis tasks in Python, utilizing libraries such as pandas, matplotlib, and seaborn for data manipulation, visualization, and analysis.
++ Combine, group, and aggregate data from multiple sources, such as order details, delivery information, and financial records, to derive meaningful insights.
++ Create informative data visualizations using pandas, matplotlib, and seaborn to present findings effectively to stakeholders.
++ Utilize Python data science libraries to analyze real-world datasets, extracting key metrics and trends related to cost components, profitability, and performance.
++ Apply tools provided by the SciPy library for scientific computing and optimization to enhance the analysis process, particularly in evaluating the impact of proposed strategies on profitability.
++ Implement computer science concepts and algorithms to write efficient code for data analysis tasks, ensuring scalability and performance when handling large datasets.
++ Write and run simulations to forecast the financial impact of recommended strategies, enabling stakeholders to make informed decisions based on projected outcomes.
