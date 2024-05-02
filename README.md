@@ -44,3 +44,24 @@ So, market size analysis is a crucial aspect of market research that determines 
 + Apply tools provided by the SciPy library for scientific computing and optimization to enhance the analysis process, particularly in evaluating the impact of proposed strategies on profitability.
 + Implement computer science concepts and algorithms to write efficient code for data analysis tasks, ensuring scalability and performance when handling large datasets.
 + Write and run simulations to forecast the financial impact of recommended strategies, enabling stakeholders to make informed decisions based on projected outcomes.
+---
+#### Prerequisites
+---
+#### PyPI
+using pip, you can install `NumPy`,`Pandas`,`matplotlib`,`seaborn` , `SciPy` with:
+```
+pip install numpy
+```
+```
+pip install pandas
+```
+```
+pip install matplotlib
+```
+```
+pip install seaborn
+```
+# Summary
+```
+Food Delivery Cost and Profitability Analysis involves examining all the costs associated with delivering food orders, from direct expenses like delivery fees and packaging to indirect expenses like discounts offered to customers and commission fees paid by restaurants. By juxtaposing these costs against the revenue generated (primarily through order values and commission fees), the analysis aims to provide insights into how profitable the food delivery service is on a per-order basis.
+```
