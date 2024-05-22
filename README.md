@@ -65,3 +65,37 @@ pip install seaborn
 ```
 Food Delivery Cost and Profitability Analysis involves examining all the costs associated with delivering food orders, from direct expenses like delivery fees and packaging to indirect expenses like discounts offered to customers and commission fees paid by restaurants. By juxtaposing these costs against the revenue generated (primarily through order values and commission fees), the analysis aims to provide insights into how profitable the food delivery service is on a per-order basis.
 ```
+## 3 Light Theme and Dark Theme Case Study using Python
+- __[Dataset](https://statso.io/light-theme-and-dark-theme-case-study/)__ - You can downloard the dataset from Heare.
+  
+
+#### Key Features:
+
++ Educational Resources: Detailed documentation, tutorials, and examples explaining the concepts of hypothesis testing, including null and alternative hypotheses, significance levels, p-values, and common statistical tests.
+
++ Implementation of Statistical Tests: A collection of well-documented, easy-to-use functions for performing various hypothesis tests (e.g., t-tests, chi-square tests, ANOVA) in Python.
+
++ Sample Datasets: Realistic sample datasets for practice and demonstration purposes, enabling users to apply hypothesis testing techniques in practical scenarios.
+
++ Visualization Tools: Tools and scripts for visualizing the results of hypothesis tests, including graphical representations of test statistics and distributions.
+
++ Best Practices and Guidelines: Recommendations for best practices in hypothesis testing, including tips for data preparation, test selection, and result interpretation.
+
++ Collaborative Platform: A community-driven platform for sharing insights, discussing challenges, and contributing to the continuous improvement of the toolkit.
+
+---
+#### Prerequisites
+---
+#### PyPI
+using pip, you can install `NumPy`,`Pandas`,`ttest_ind` , `SciPy` with:
+```
+pip install numpy
+```
+```
+pip install pandas
+```
+# Summary
+```
+So, Hypothesis Testing is a statistical method used to make inferences or decisions about a population based on sample data. It starts with a null hypothesis (H0), which represents a default stance or no effect, and an alternative hypothesis (H1 or Ha), which represents what we aim to prove or expect to find. The process involves using sample data to determine whether to reject the null hypothesis in favor of the alternative hypothesis, based on the likelihood of observing the sample data under the null hypothesis.
+```
+
