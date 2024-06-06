@@ -87,7 +87,7 @@ Food Delivery Cost and Profitability Analysis involves examining all the costs a
 #### Prerequisites
 ---
 #### PyPI
-using pip, you can install `NumPy`,`Pandas`,`ttest_ind` , SciPy with:
+using pip, you can install `NumPy`,`Pandas`,`ttest_ind` , `SciPy` with:
 ```
 pip install numpy
 ```
