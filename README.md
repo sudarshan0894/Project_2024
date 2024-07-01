@@ -98,3 +98,75 @@ pip install pandas
 ```
 So, Hypothesis Testing is a statistical method used to make inferences or decisions about a population based on sample data. It starts with a null hypothesis (H0), which represents a default stance or no effect, and an alternative hypothesis (H1 or Ha), which represents what we aim to prove or expect to find. The process involves using sample data to determine whether to reject the null hypothesis in favor of the alternative hypothesis, based on the likelihood of observing the sample data under the null hypothesis.
 ```
+## 4  Text Classification for Consumer Complaints
+
+This project demonstrates text classification using deep learning techniques on the Consumer Complaints dataset. The dataset contains consumer complaints filed with the Consumer Financial Protection Bureau (CFPB). The goal is to classify the complaints into various product categories.
+
+## Project Structure
+
+text-classification/
+│
+├── data/
+│ └── Consumer_Complaints.csv # Dataset file
+│
+├── notebooks/
+│ └── text_classification.ipynb # Jupyter notebook for EDA and model prototyping
+│
+├── src/
+│ ├── preprocess.py # Code for data preprocessing
+│ ├── model.py # Code for building the model
+│ └── train.py # Code for training the model
+│
+├── README.md # Project documentation
+└── requirements.txt # Dependencies
+
+
+## Dataset
+
+The dataset contains the following columns:
+
+- `Date received`
+- `Product`
+- `Sub-product`
+- `Issue`
+- `Sub-issue`
+- `Consumer Complaint`
+- `Company Public Response`
+- `Company`
+- `State`
+- `ZIP code`
+- `Tags`
+- `Consumer consent provided?`
+- `Submitted via`
+- `Date Sent to Company`
+- `Company Response to Consumer`
+- `Timely response?`
+- `Consumer disputed?`
+- `Complaint ID`
+
+For this project, we focus on the `Consumer Complaint` and `Product` columns.
+
+## Setup Instructions
+
+### Prerequisites
+
+Ensure you have Python 3.7+ and [pip](https://pip.pypa.io/en/stable/) installed. You will also need to install the following dependencies:
+
+```bash
+pip install -r requirements.txt
+
+!kaggle datasets download -d dushyantv/consumer_complaints
+
+```
+
+### Key Components
+
+- **Project Structure:** Organizes code, data, and documentation.
+- **Dependencies:** Lists required packages.
+- **Setup Instructions:** Guides users to download the dataset, install dependencies, and run the model.
+- **Usage:** Demonstrates how to use the trained model.
+- **Results:** Provides sample predictions and model performance metrics.
+- **License:** Indicates the project's license. Adjust if necessary.
+
+This README provides a comprehensive overview and should help others understand, set up, and use your project effectively.
+
